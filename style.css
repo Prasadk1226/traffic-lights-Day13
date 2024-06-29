@@ -1,0 +1,162 @@
+.circle{
+    border: 10px solid black;
+    width: 50px;
+    height: 50px;
+    border-radius: 4px;
+    padding: 1px;
+    /* margin: 15px; */
+    background-color: black;
+    margin: 10px;
+    
+}
+.main{
+    border: 4px solid black;
+    height: 260px;
+    width: 90px;
+    border-radius: 10px;
+    margin-left: 45%;
+    margin-top: 10%;
+    padding: 5px;
+    background-image: linear-gradient(to top left,gray, black, grey);
+}
+.red{
+    background-color: red; 
+    height: 100%;
+    width:100%;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+.yellow{
+    background-color: yellow;
+    height: 100%;
+    width:100%;
+    border-radius: 50%;
+    border: 1px solid white;
+    
+}
+.green{
+    background-color: green;
+    height: 100%;
+    width:100%;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+.rectop{
+    border: 1px solid black;
+    width: 75px;
+    height: 10px;
+    margin-left: 46%;
+    margin-top: -290px;
+    border-radius: 5px 5px 0px 0px;
+    background-image: linear-gradient(to bottom, gray, black, black,black);
+}
+.rectop1{
+    border: 1px solid rgb(0, 0, 0);
+    width: 46px;
+    height: 10px;
+    margin-left: 47%;
+    margin-top: -24px;
+    border-radius: 5px 5px 0px 0px;
+    background-image: linear-gradient(to bottom, grey,black,black,black);
+
+}
+.rectop3{
+    border: 1px solid rgb(56, 56, 56);
+    height: 10px;
+    margin-top: -27px;
+    width: 100%;
+    /* margin-left: 30%; */
+    border-radius: 5px;
+    /* background-color: black; */
+    background-image: linear-gradient(to bottom, gray,black,black,black);
+}
+.rectop2{
+    border: 1px solid rgb(0, 0, 0);
+    width: 22px;
+    height: 33px;
+    border-radius: 20px;
+    /* background-color: rgb(0, 0, 0); */
+    background-image: linear-gradient(to bottom, grey, black,black);
+    margin-left: 47.85%;
+    margin-top: -20px;
+
+}
+.rects1{
+    border: 3px solid black;
+    /* background-color: rgb(255, 0, 0); */
+    height: 50px;
+    width: 3px;
+    margin-left: 44.5%;
+    /* border-left-color: red; */
+    border-radius: 5px;
+    /* margin-top: 35px; */
+}
+.red1{
+    border-left-color: red;
+    background-color: red;
+    margin-top: 38px;
+}
+.yellow1{
+    border-left-color: yellow;
+    background-color: yellow;
+    margin-top: 26px;
+}
+.green1{
+    border-left-color: green;
+    background-color: green;
+    margin-top: 29px;
+}
+.rects2{
+    border: 3px solid black;
+    height: 50px;
+    width: 3px;
+    margin-left: 52.5%;
+    /* margin-top: -700px; */
+    border-radius: 5px;
+}
+.red2{
+    border-right-color: red;
+    background-color: red;
+    margin-top: -223px;
+}
+.yellow2{
+    border-right-color: yellow;
+    background-color: yellow;
+    margin-top: 26px;
+}
+.green2{
+    border-right-color: green;
+    background-color: green;
+    margin-top: 29px;
+}
+.tris1{
+    border: 3px solid black;
+    height: 20px;
+    width: 40px;
+    background-color: black;
+    border-bottom-left-radius: 100%;
+    margin-left: 41.8%;
+    /* margin-top: -100px; */
+}
+.trisr{
+    margin-top: -230px;
+}
+.trisy{
+    margin-top: 58px;
+
+}
+.trisg{
+    margin-top: 56px;
+}
+.tris2{
+    border: 3px solid black;
+    height: 20px;
+    width: 40px;
+    background-color: black;
+    border-bottom-right-radius: 100%;
+    margin-left: 52.5%;
+    /* margin-top: -100px; */
+}
+.trisr1{
+    margin-top: -194px;
+}
